@@ -1,1 +1,3 @@
-files: []
+files:
+  - source: /assets/minecraft/lang/zh_TW.json
+    translation: /assets/minecraft/lang/%locale_with_underscore%
